@@ -2,9 +2,10 @@
 
 ### Versions
 
-- [`1.9-jdk7`, `1.9-oracle-jdk7`, (*1.9-oracle-jdk7/Dockerfile*)]
-- [`1.9-jdk8`, `1.9-oracle-jdk8`, `latest` (*1.9-oracle-jdk8/Dockerfile*)]
+- [`1.9-jdk7`, `1.9-oracle-jdk7`, (*1.9-oracle-jdk7/Dockerfile*)](1.9-oracle-jdk7/Dockerfile)
+- [`1.9-jdk8`, `1.9-oracle-jdk8`, `latest` (*1.9-oracle-jdk8/Dockerfile*)](1.9-oracle-jdk8/Dockerfile)
 
+https://raw.githubusercontent.com/cjlyth/docker-ant/master/1.9-oracle-jdk7/Dockerfile
 ### Local build
 
 ```
